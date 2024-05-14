@@ -11,8 +11,8 @@ Welcome to my profile! I'm thrilled to share a bit about myself with you.
 
 ## Connect with Me
 Let's connect and explore the endless possibilities together!
-- [LinkedIn](hrudayajinna)
-- [GitHub](hrudayajinna)
+- [LinkedIn]([hrudayajinna](https://www.linkedin.com/in/hrudayajinna/))
+- [GitHub]([hrudayajinna](https://github.com/hrudayajinna))
 - [Email](mailto:hrudayajinna@gmail.com)
 
 Looking forward to connecting with you!
