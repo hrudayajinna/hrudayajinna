@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there! 👋 It’s a pleasure to meet you.
 
-<!--
-**hrudayajinna/hrudayajinna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile! I'm thrilled to share a bit about myself with you.
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 Currently immersing myself in the fascinating realms of web development, cloud technologies, and backend technologies like Spring.
+- 🌱 Currently pursuing my master's in Computer Science at UMBC, where I'm honing my skills and expanding my knowledge base.
+- 🤔 Actively seeking full-time job opportunities to embark on an exciting career journey in the tech industry.
+- 🥅 **Goals:** I'm on a mission to devour knowledge like it's my favorite dish. Learning is my daily feast!
+- ⚡ **Fun fact:** I'm like a kid in a candy store when it comes to learning—constantly buzzing with excitement to explore new concepts and ideas!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with Me
+Let's connect and explore the endless possibilities together!
+- [LinkedIn](hrudayajinna)
+- [GitHub](hrudayajinna)
+- [Email](mailto:hrudayajinna@gmail.com)
+
+Looking forward to connecting with you!
+
